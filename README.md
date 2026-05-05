@@ -1,4 +1,5 @@
 # file system backup linux
+```
 /
 ├── proc/    ❌ virtuel
 ├── sys/     ❌ virtuel
@@ -18,3 +19,4 @@
 ├── root/    ✅ CRITIQUE
 ├── opt/     ✅ selon usage
 └── srv/     ✅ selon usage
+```
